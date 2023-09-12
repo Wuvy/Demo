@@ -1,0 +1,21 @@
+body
+{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+.H1
+{
+    background-color: aqua;
+    width: 100%;
+    height: 100px;   
+    top: 0;
+    position: sticky; 
+}
+.H2
+{
+    height: 300vh;
+    width: 100%;
+    background-color: rgb(255, 9, 9);
+    position: static;
+}
